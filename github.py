@@ -1,0 +1,5 @@
+print("Aaron C. Villacorta")
+print("CSST 101")
+print("CS 3A")
+print("Chatgpt")
+print("AI Meeting Transcription")
